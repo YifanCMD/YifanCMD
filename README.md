@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YifanCMD
-- 👀 I’m interested in Python and Machine Learning.
-- 🌱 I’m currently learning Python and ML.
+- 👀 I’m interested in Coding and Design.
+- 🌱 I’m currently learning Web Development, Python and ML.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
